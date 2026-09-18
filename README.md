@@ -40,7 +40,7 @@ The **Student Report Card System** is an interactive Java console application de
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 Ensure Java JDK is installed on your machine. You can verify your installation by running:
